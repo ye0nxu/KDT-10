@@ -1,0 +1,6 @@
+<book>
+    <title>책제목</title>
+    <price>가격</price>
+    <print_date>출판일</print_date>
+    <writer>저자</writer>
+</book>

@@ -1,0 +1,8 @@
+[variety]--------------3개, object
+-> 고유값 : ['Setosa' 'Versicolor' 'Virginica'] 
+-> 고유값별 데이터수
+variety
+Setosa        50
+Versicolor    50
+Virginica     50
+Name: count, dtype: int64 
